@@ -5,6 +5,7 @@
 <title>Home Page</title>
 </head>
 <body>
+	<h1>Server Time: ${serverTime}</h1>
 	<h1>Student Name: Trupti Ketan Vala</h1>
 
 	<h1>Student ID: 84829</h1>
